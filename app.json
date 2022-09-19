@@ -7,7 +7,7 @@
     "env": {
         "HEROKU_APP_NAME": {
             "description": "Heroku app name - same as the app name set above",
-            "value": ""
+            "value": "wasdrp"
         },
         "DGSM_PREFIX": {
             "description": "Bot commands prefix (Default: !)",
@@ -15,7 +15,7 @@
         },
         "DGSM_TOKEN": {
             "description": "Bot token - You can get it on https://discordapp.com/developers/applications/",
-            "value": ""
+            "value": "ODc0NTc2MTQzMjY3Nzk5MDUw.G-GLfN.3ynuqv7PhcWiYQh8WQKy-sQsvBhEM6RMHg_cxE"
         },
         "PRESENCE_RATE": {
             "description": "Discord presence refresh rate in minutes (Default: 5)",
